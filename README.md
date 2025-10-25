@@ -39,7 +39,7 @@ The dashboard includes **four views**:
 
 ---
 
-##Dashboard Pages
+## Dashboard Pages
 ### Monthly View
 - Patient admission status (admitted vs. non-admitted)  
 - Patient age distribution (10-year intervals)  
